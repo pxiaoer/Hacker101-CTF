@@ -6,10 +6,10 @@
 
 ## 0x01 CTF
 
-| Difficulty (Points) |	Name                                              | Skills       | Completion | 微信公众号链接 		      |
-| ------------------- | ------------------------------------------------- | ------------ | ---------- | ------------------------- |
-| Trivial (1 / flag)  | [A little something to get you started][2]        | Web          | 1 / 1      | [hacker101-ctf:第00题][00] |
-| Easy (2 / flag)     | [Micro-CMS v1][3]                                 | Web          | 4 / 4      | [hacker101-ctf:第01题][01] |
+| Difficulty (Points) |	Name                                              | Skills       | Completion | 微信公众号链接 		          |
+| ------------------- | ------------------------------------------------- | ------------ | ---------- | ----------------------------- |
+| Trivial (1 / flag)  | [A little something to get you started][2]        | Web          | 1 / 1      | [hacker101-ctf:第00题][00]     |
+| Easy (2 / flag)     | [Micro-CMS v1][3]                                 | Web          | 4 / 4      | [hacker101-ctf:第01题][01]     |
 | Moderate (3 / flag) | [Micro-CMS v2][5]                                 | Web          | 3 / 3      |
 | Hard (9 / flag)     | [Encrypted Pastebin][12]                          | Web, Crypto  | 1 / 4      |
 | Moderate (6 / flag) | [Photo Gallery][10]                               | Web          | 3 / 3      |
