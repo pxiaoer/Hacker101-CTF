@@ -4,12 +4,12 @@
 
 [Hacker101 CTF][1] is part of HackerOne free online training program. Really a good place to apply all the pen test skills for beginners.
 
-## 0x01 CTF
+## 0x01 CTF WriteUp
 
-| Difficulty (Points) |	Name                                              | Skills       | Completion | 微信公众号链接 		          |
-| ------------------- | ------------------------------------------------- | ------------ | ---------- | ----------------------------- |
-| Trivial (1 / flag)  | [A little something to get you started][2]        | Web          | 1 / 1      | [hacker101-ctf:第00题][00]     |
-| Easy (2 / flag)     | [Micro-CMS v1][3]                                 | Web          | 4 / 4      | [hacker101-ctf:第01题][01]     |
+| Difficulty (Points) |	Name                                              | Skills       | Completion | 公众号题解链接   |
+| ------------------- | ------------------------------------------------- | ------------ | ---------- | -------------  |
+| Trivial (1 / flag)  | [A little something to get you started][2]        | Web          | 1 / 1      | [第00题][00]    |
+| Easy (2 / flag)     | [Micro-CMS v1][3]                                 | Web          | 4 / 4      | [第01题][01]    |
 | Moderate (3 / flag) | [Micro-CMS v2][5]                                 | Web          | 3 / 3      |
 | Hard (9 / flag)     | [Encrypted Pastebin][12]                          | Web, Crypto  | 1 / 4      |
 | Moderate (6 / flag) | [Photo Gallery][10]                               | Web          | 3 / 3      |
@@ -50,3 +50,10 @@
 
 [00]: https://mp.weixin.qq.com/s/UwNcqQ1AvD-QLni6m5OpmQ
 [01]: https://mp.weixin.qq.com/s/igGCwIdLb1aHkkVxRySgwg
+
+
+## 0x02 
+
+欢迎关注我的公众号: AI与安全
+
+![](https://tva1.sinaimg.cn/large/006y8mN6ly1g8g2bfh41tj3076076mxn.jpg)
