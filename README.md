@@ -6,10 +6,10 @@
 
 ## 0x01 CTF
 
-| Difficulty (Points) |	Name                                              | Skills       | Completion |
-| ------------------- | ------------------------------------------------- | ------------ | ---------- |
-| Trivial (1 / flag)  | [A little something to get you started][2]        | Web          | 1 / 1      |
-| Easy (2 / flag)     | [Micro-CMS v1][3]                                 | Web          | 4 / 4      |
+| Difficulty (Points) |	Name                                              | Skills       | Completion | 微信公众号链接 		      |
+| ------------------- | ------------------------------------------------- | ------------ | ---------- | ------------------------- |
+| Trivial (1 / flag)  | [A little something to get you started][2]        | Web          | 1 / 1      | [hacker101-ctf:第00题][00] |
+| Easy (2 / flag)     | [Micro-CMS v1][3]                                 | Web          | 4 / 4      | [hacker101-ctf:第01题][01] |
 | Moderate (3 / flag) | [Micro-CMS v2][5]                                 | Web          | 3 / 3      |
 | Hard (9 / flag)     | [Encrypted Pastebin][12]                          | Web, Crypto  | 1 / 4      |
 | Moderate (6 / flag) | [Photo Gallery][10]                               | Web          | 3 / 3      |
@@ -29,8 +29,8 @@
 | Easy (4 / flag)     | [BugDB v2][19]                                    | Web, GraphQL | 1 / 1      |
 
 [1]: https://ctf.hacker101.com/ctf
-[2]: ./a_little_something_to_get_you_started
-[3]: ./micro-cms_v1
+[2]: ./00.a_little_something_to_get_you_started
+[3]: ./01.micro-cms_v1
 [4]: ./tempimage
 [5]: ./micro-cms_v2
 [6]: ./postbook
@@ -47,3 +47,6 @@
 [17]: ./rend_asunder
 [18]: ./bugdb_v1
 [19]: ./bugdb_v2
+
+[00]: https://mp.weixin.qq.com/s/UwNcqQ1AvD-QLni6m5OpmQ
+[01]: https://mp.weixin.qq.com/s/igGCwIdLb1aHkkVxRySgwg
