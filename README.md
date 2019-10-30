@@ -52,8 +52,14 @@
 [01]: https://mp.weixin.qq.com/s/igGCwIdLb1aHkkVxRySgwg
 
 
-## 0x02 
+## 0x02 Progress
 
+
+![](https://tva1.sinaimg.cn/large/006y8mN6ly1g8dr9dv1ygj30rn05cwex.jpg)
+
+
+## 0x03 微信公众号
+ 
 欢迎关注我的公众号: AI与安全
 
 ![](https://tva1.sinaimg.cn/large/006y8mN6ly1g8g2bfh41tj3076076mxn.jpg)
