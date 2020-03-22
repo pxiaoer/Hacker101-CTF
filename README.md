@@ -60,6 +60,6 @@
 
 ## 0x03 微信公众号
  
-欢迎关注我的公众号: AI与安全
+欢迎关注我的公众号: P小二
 
 ![](https://tva1.sinaimg.cn/large/006y8mN6ly1g8g2bfh41tj3076076mxn.jpg)
